@@ -6,9 +6,10 @@ the following 8-bit microcomputers:
  - Amstrad CPC
  - MSX 1 (based on Toshiba palette)
  - Commodore 64
+ - Oric
 
 The used values when the specific color is not defined (e.g. MSX) are the ones
-I use in my conversion tools, so they may or may not work for you.
+Juan J. Martínez (alias reidrac) uses in conversion tools, so they may or may not work.
 
 These files are in the Public Domain.
 
