@@ -1,6 +1,6 @@
 
 These are some GPL (GIMP Palette) files to import in GIMP and do pixel work for
-the following 8-bit microcomputers:
+the following microcomputers:
 
  - ZX Spectrum
  - Amstrad CPC
