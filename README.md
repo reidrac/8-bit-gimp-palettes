@@ -9,7 +9,8 @@ the following microcomputers:
  - Oric
 
 The used values when the specific color is not defined (e.g. MSX) are the ones
-Juan J. Martínez (alias reidrac) uses in conversion tools, so they may or may not work.
+Juan J. Martínez (alias reidrac) uses in conversion tools, so they may or may not work
+for all use cases.
 
-These files are in the Public Domain.
-You can easily import these palettes on Krita or Photoshop
+These files are in the Public Domain.  
+You can easily import these palettes on Krita or Photoshop.
